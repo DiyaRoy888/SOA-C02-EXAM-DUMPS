@@ -5,6 +5,8 @@ Get more info: [https://www.dumpsvibe.com/amazon/soa-c02-dumps.html](https://www
 ## Why Choose dumpsvibe for Your Amazon SOA-C02 Exam Preparation?
 Comprehensive Coverage of Exam Topics
 dumpsvibe's exam dumps cover the entire spectrum of topics included in the Amazon SOA-C02 exam. From AWS fundamentals to designing scalable, highly available architectures, our dumps ensure you are well-equipped to tackle any question that may arise during the exam.
+![1709924172756](https://github.com/DiyaRoy888/SOA-C02-EXAM-DUMPS/assets/154591562/2b89a3d7-32c0-4e32-8c64-25c1ff0fbd43)
+
 ### Expertly Curated Content
 Our team of experienced professionals meticulously curates the [SOA-C02 Exam Dumps](https://www.dumpsvibe.com/amazon/soa-c02-dumps.html) to ensure accuracy and relevance. Each question is carefully crafted to reflect the format and difficulty level of the actual exam, providing you with a realistic exam experience.
 # Real-Time Updates
